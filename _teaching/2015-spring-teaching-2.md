@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
+title: "Physics 141A-Solid State Physics"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate course"
+permalink: /teaching/2019-fall-teaching
+venue: "UC Berkeley, Physics Department"
+date: 2025-01-21
+location: "Berkeley, CA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Part 1/2 of a thorough introductory course in modern solid state physics. Crystal symmetries; classification of solids and their bonding; electromagnetic, elastic, and particle waves in periodic lattices; thermal magnetic and dielectric properties of solids; energy bands of metals and semi-conductors; superconductivity; magnetism; ferroelectricity; magnetic resonances.

@@ -11,54 +11,51 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Physics, University of California, Berkeley, In Progress
+* M.S. in Physics, University of California, Berkeley, 2021
+* B.S. in Physics, Ohio State University, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2019-Present: Research Assistant
+  * UC Berkeley & LBNL
+  * Supervisor: Jeffrey Neaton
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2024: Visiting Scholar
+  * Oxford University
+  * Supervisor: Marina Filip
+
+* Summer 2022: Winton-Kavli Exchange Program
+  * Cambridge University
+  * Supervisor: Bartomeu Monserrat
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Computational Materials Science  
+  * GW and Bethe–Salpeter Equation (BSE) methods  
+  * Density Functional Theory (DFT)  
+  * Electron- and exciton-phonon interactions
+* Scientific Programming  
+  * Python, Julia, Fortran, Bash, C
+  * Parallel computation and memory optimization  
+  * Data post-processing and visualization (Matplotlib, NumPy, HDF5)  
+* Code Development  
+  * Contributor to open-source research software:  
+    * [BerkeleyGW](https://berkeleygw.org) — GW and BSE for quasiparticles and excitons  
+    * [Kph (Private)](https://github.com/Kph-BGW/Kph) — Phonon screening in the BSE
+    * [WOT-SRSH (Private)](https://github.com/fraricci/wotsrsh-workflow) — Optimally tuned range-separated hybrid functionals
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+See [full publication list](/publications/).
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+See [teaching experience](/teaching/).
+
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+* Instructor and curriculum designer for Splash at Berkeley  
+* Mentor to undergraduate and junior graduate researchers at UC Berkeley
+* Participant in international research exchanges
